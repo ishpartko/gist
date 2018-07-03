@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b54a7dd8-5aa6-4727-9984-f28cc2d1a98b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.2ae2e69a05c33dfc65f8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gist_project/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/gist_project/build/webpack.prod.conf.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gist_project/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/gist_project/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,15 +25,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="216" selection-start-column="216" selection-end-column="216" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="utils.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gist_project/build/utils.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,8 +37,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gist_project/config/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+            <state relative-caret-position="483">
+              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -70,10 +56,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/gist_project/src/components/appGist.vue" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/gist_project/build/webpack.prod.conf.js" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/gist_project/config/index.js" />
       </list>
     </option>
@@ -194,7 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530636408823</updated>
-      <workItem from="1530636410365" duration="6831000" />
+      <workItem from="1530636410365" duration="7118000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <created>1530637903717</created>
@@ -238,11 +224,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530651070250</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fixed path to the static in webpack config">
+      <created>1530652447696</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1530652447696</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6831000" />
+    <option name="totallyTimeSpent" value="7118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -281,7 +274,8 @@
     <MESSAGE value="fixed domain path" />
     <MESSAGE value="fixed webpack config" />
     <MESSAGE value="fixed readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed readme" />
+    <MESSAGE value="fixed path to the static in webpack config" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed path to the static in webpack config" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gist_project/index.html">
@@ -365,8 +359,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gist_project/config/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        <state relative-caret-position="483">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
         </state>
       </provider>
     </entry>

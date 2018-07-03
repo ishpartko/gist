@@ -97,7 +97,6 @@
         for (let i = 0; i < this.inputData.length; i++) { // Перебор всех элементов строки по одному
           if (this.checkReg(this.inputData[i])) { // Подходит ли символ под общее ругелярное выражение
             let currentSymbol = this.inputData[i];
-            console.log(currentSymbol.search(this.filterOptions[3].reg))
             if (currentSymbol.search(this.filterOptions[3].reg) === 0) // Проверка на пробельные символы
               currentSymbol = "space";
             if (this.checkSame(calculatedMass, currentSymbol)) // Проверка встречался ли уже такой символ ранее

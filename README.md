@@ -1,10 +1,15 @@
 # gist
 
+[Demo](https://ishpartko.github.io/gist/ "Demo")
+
 > second gist
 
 ## Build Setup
 
 ``` bash
+# enter to directory of development
+cd gist_project
+
 # install dependencies
 npm install
 

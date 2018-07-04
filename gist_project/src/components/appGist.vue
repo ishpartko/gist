@@ -205,7 +205,7 @@
         width: 80%;
         border: #bababa 2px solid;
         .app-graph-col_value {
-          background: linear-gradient(to bottom, #355C7D, #6C5B7B, #C06C84);
+          background: linear-gradient(to right, #355C7D, #6C5B7B, #C06C84);
           display: block;
           text-align: center;
           color: #ffffff;
